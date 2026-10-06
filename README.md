@@ -3,7 +3,7 @@
 # Adatbázis-kezelés alapjai (MySQL) - 2. rész
 ## ITMP Klub képzés infotanároknak
 
-Az egynapos, gyakorlatorientált képzés a MySQL alapok két részes tanári képzésünk első része, amely során **Rostagni Csaba** vezető mentor segítségével lépésről lépésre ismerkedhetsz további SQL utasítások felépítésével, használatával.  DDL és DML utasításokat, valamint allekérdezéseket készítesz, és magabiztos alapokat szerzel a többtáblás lekérdezések létrehozásánál a megfelelő összekapcsolási típusok használatában.
+Az egynapos, gyakorlatorientált képzés a MySQL alapok két részes tanári képzésünk második része, amely során **Rostagni Csaba** vezető mentor segítségével lépésről lépésre ismerkedhetsz további SQL utasítások felépítésével, használatával.  DDL és DML utasításokat, valamint allekérdezéseket készítesz, és magabiztos alapokat szerzel a többtáblás lekérdezések létrehozásánál a megfelelő összekapcsolási típusok használatában.
 
 A képzés elsősorban Digitális kultúrát tanító kollégáknak szól, de a szakképzésben Adatbázis-kezelést oktatók is bátran csatlakozhatnak.
 
