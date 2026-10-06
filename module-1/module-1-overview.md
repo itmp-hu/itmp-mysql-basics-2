@@ -1,0 +1,1 @@
+# 1. modul - Létrehozás és törlés
