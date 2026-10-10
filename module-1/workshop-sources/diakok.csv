@@ -1,0 +1,22 @@
+sor;vezeteknev;keresztnev;nem;osztaly_id;szulido;kor;email;magassag_cm;atlag;irsz;lakcim
+1;Kiss;Anna;0;1;2010-06-15;15;kiss.anna@gmail.com;162;4.2;1031;Budapest, Vízi utca 5.
+2;Szabó;Bence;1;1;2010-01-08;16;szabo.bence@freemail.hu;170;3.8;4024;Debrecen, Piac utca 12.
+3;Varga;Dóra;0;3;2009-09-30;16;varga.dora@icloud.com;158;4.9;6720;Szeged, Tisza Lajos krt. 3.
+4;Tóth;Máté;1;3;2009-03-21;16;toth.mate@gmail.hu;175;3.2;3525;Miskolc, Városház tér 1.
+5;Nagy;Lili;0;2;2010-11-02;15;;160;4.5;7621;Pécs, Király utca 8.
+6;Kovács;Levente;1;2;2010-05-27;15;kovacs.levente@gmail.com;168;3.4;9022;Győr, Baross út 15.
+7;Horváth;Réka;0;7;2008-12-12;17;horvath.reka@yahoo.com;164;4.1;8000;Székesfehérvár, Fő utca 2.
+8;Balogh;Ádám;1;7;2008-08-09;17;balogh.adam@freemail.hu;178;2.7;4400;Nyíregyháza, Kossuth tér 5.
+9;Balogh;Ádám;1;7;2008-03-15;17;balogha@gmail.hu;182;4.8;1192;Budapest, Pannónia út 6.
+10;Farkas;Zsófi;0;5;2009-01-14;17;farkas.zsofi@gmail.com;161;4.8;6000;Kecskemét, Rákóczi út 10.
+11;Papp;Noel;1;5;2009-07-05;16;papp.noel@outlook.com;172;3.9;5000;Szolnok, Kossuth út 3.
+12;Lakatos;Kinga;0;4;2010-02-25;15;lakatos.kinga@gmail.hu;159;4.3;2030;Érd, Budai út 45.
+13;Horváth;Gergő;1;4;2010-09-18;15;molnar.gergo@freemail.hu;166;3.1;2800;Tatabánya, Fő tér 12.
+14;Nagy;Emese;0;8;2008-04-28;17;szalai.emese@gmail.com;165;4.6;9700;Szombathely, Rohonci út 4.
+15;Kelemen;Dániel;1;8;2008-10-03;17;;180;3.6;8200;Veszprém, Egyetem utca 10.
+16;Oláh;Petra;0;9;2007-06-01;18;olah.petra@gmail.com;167;4.9;7400;Kaposvár, Ady Endre utca 7.
+17;Mészáros;Bálint;1;9;2007-02-17;19;meszaros.balint@yahoo.com;182;3.4;4032;Debrecen, Egyetem tér 1.
+18;Bíró;Vivien;0;10;2007-09-09;18;biro.vivien@icloud.com;163;4.2;1117;Budapest, Október 23. utca 8.
+19;Takács;Tamás;1;10;2007-12-20;18;takacs.tamas@gmail.hu;176;2.8;6724;Szeged, Londoni krt. 12.
+20;Nagy;Nóra;0;6;2009-11-11;16;sipos.nora@freemail.hu;160;4.7;3530;Miskolc, Szemere utca 4.
+21;Simon;Zalán;1;6;2009-05-16;16;simon.zalan@gmail.com;174;3.5;1042;Budapest, Árpád út 20.
